@@ -1,2 +1,0 @@
-# indicoin
-indi Coin Repo
